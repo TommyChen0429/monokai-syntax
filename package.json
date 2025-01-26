@@ -1,0 +1,22 @@
+{
+  "name": "monokai-syntax",
+  "displayName": "Monokai Syntax",
+  "description": "Dark Modern theme with Monokai syntax",
+  "version": "0.0.1",
+  "publisher": "Tommy0429",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monokai Syntax",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai Syntax-color-theme.json"
+      }
+    ]
+  }
+}
