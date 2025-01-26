@@ -4,6 +4,19 @@
   "description": "Dark Modern theme with Monokai syntax",
   "version": "0.0.1",
   "publisher": "Tommy0429",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TommyChen0429/monokai-syntax"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark modern",
+    "monokai",
+    "monokai++",
+    "monokai syntax",
+    "monokai classic"
+  ],
   "engines": {
     "vscode": "^1.96.0"
   },
