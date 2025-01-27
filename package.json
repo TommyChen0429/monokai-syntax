@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/TommyChen0429/monokai-syntax"
   },
+  "icon": "pluginIcon.png",
   "keywords": [
     "theme",
     "dark theme",
